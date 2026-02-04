@@ -2,9 +2,6 @@
 
 A modern, feature-rich React application for managing and organizing your learning resources with tags, favorites, and search functionality.
 
-[🚀 Live Demo](https://react-recap-mini-hub-0402.vercel.app/)
-
-
 ![React](https://img.shields.io/badge/React-18.x-61dafb?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5.x-646cff?style=flat-square&logo=vite)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
@@ -21,7 +18,7 @@ A modern, feature-rich React application for managing and organizing your learni
 
 ## 🎯 Demo
 
-![App Screenshot](./screenshot.png)
+[🚀 Live Demo](https://react-recap-mini-hub-0402.vercel.app/)
 
 ## 🚀 Quick Start
 
